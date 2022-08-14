@@ -1,1 +1,0 @@
-execute as @a store result score @s health
